@@ -28,6 +28,7 @@ public class Main {
         try {
             pila.push(5);
             pila.push(45);
+            pila.push(46);
             pila.push(12);
             pila.print();
             System.out.println("-------------cola----------");
