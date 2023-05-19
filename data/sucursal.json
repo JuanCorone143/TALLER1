@@ -1,0 +1,14 @@
+{"sucursal-array": [
+  {
+    "nombre": "Alyce",
+    "ventas": [
+      null,
+      {
+        "valor": 567.9,
+        "mes": "MAYO"
+      },
+      null,
+      null
+    ]
+  }
+]}
