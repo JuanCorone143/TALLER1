@@ -23,7 +23,7 @@ public interface InterfazDao <T>{
      * @param obj Objeto a modificar
      * @param pos posicion del arreglo
      */
-    public void modificar(T obj, Integer pos);
+    public void modificar(T obj, Integer pos) throws IOException;
     /**
      * Permite listar los elementos
      * @return un arreglo
